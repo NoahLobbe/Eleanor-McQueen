@@ -3,9 +3,9 @@
 
 <div height="100">
   <img alt="Lightning McQueen" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Lightning_McQueen.png/220px-Lightning_McQueen.png">
-  <h2>+</h2>
+
   <img alt="Eleanor, 1967 Ford Shelby GT500" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1967_Ford_Mustang_Shelby_GT-500_Eleanor.jpg/280px-1967_Ford_Mustang_Shelby_GT-500_Eleanor.jpg">
-  <h2>=</h2>
+
   <img alt="Render of final product" src="https://github.com/NoahLobbe/Eleanor-McQueen/blob/6846e4f1a7631a137385426fb9ac0a2351d3356d/Cloud%20render-Eleanor%20McQueen-cropped.png"> 
 </div>
 
