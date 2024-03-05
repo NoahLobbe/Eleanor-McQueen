@@ -7,6 +7,4 @@
 ## The Real Deal
 The wheel-axle and the body were 3D printed separately and then assembled.
 
-<img alt="Isometric view" src="https://github.com/NoahLobbe/Eleanor-McQueen/blob/596fbea87e782323d0a6017aad583d2422696efb/Eleanor%20McQueen-printed-isometric.JPG" height="200"/>
-
-<img alt="Underside view" src="https://github.com/NoahLobbe/Eleanor-McQueen/blob/596fbea87e782323d0a6017aad583d2422696efb/Eleanor%20McQueen-printed-underside.JPG" height="200" />
+<img alt="Isometric view" src="https://github.com/NoahLobbe/Eleanor-McQueen/blob/596fbea87e782323d0a6017aad583d2422696efb/Eleanor%20McQueen-printed-isometric.JPG" height="300"/> <img alt="Underside view" src="https://github.com/NoahLobbe/Eleanor-McQueen/blob/596fbea87e782323d0a6017aad583d2422696efb/Eleanor%20McQueen-printed-underside.JPG" height="300" />
